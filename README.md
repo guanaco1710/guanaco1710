@@ -40,13 +40,6 @@ Desarrollo de microservicios con Spring Boot desplegados en AWS. Comunicación a
 
 ---
 
-### 🕷️ Web Scraping — Magna Steyr
-Automatización de extracción de datos con Python y Selenium para el departamento de IT.
-
-🔗 [Repositorio](https://github.com/guanaco1710/ampliacio-AD-pau-ivan)
-
----
-
 ## 📚 Formación
 
 - 🎓 **DAM** — Desarrollo de Aplicaciones Multiplataforma · San Vicent Ferrer, Algemesí *(2024 – actualidad)*
