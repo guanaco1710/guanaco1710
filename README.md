@@ -23,7 +23,7 @@ Desarrollador con formación en DAM y experiencia real en backend con Java/Sprin
 
 ## 📌 Proyectos destacados
 
-### 🏋️ GymFlow — Gestión de Gimnasios (TFG)
+### 🏋️ GymBook — Gestión de Gimnasios (TFG)
 App multiplataforma para la gestión integral de gimnasios: reserva de clases, gestión de suscripciones, control de aforo y administración de usuarios.
 
 - **Backend:** API REST con Spring Boot · Arquitectura Hexagonal · Spring Security · JUnit + Mockito · Tests de integración y E2E
